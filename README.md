@@ -53,6 +53,9 @@ La longueur des documents est hétérogène :
 - Majorité de textes courts (articles, chapitres)
 - Quelques documents très volumineux (livres, thèses)
 
+<img width="560" height="499" alt="Capture d’écran 2025-12-23 061600" src="https://github.com/user-attachments/assets/b73e942b-237a-4fa2-87f1-3c71a6f8abbe" />
+
+
 ---
 
 ## 🔤 Analyse lexicale
@@ -62,6 +65,9 @@ L’analyse lexicale repose sur :
 - La création de **clustermaps hiérarchiques**
 
 Cette approche permet d’identifier des **dictionnaires implicites** et des **champs sémantiques** structurant le discours sur le rap.
+
+<img width="703" height="373" alt="Capture d’écran 2025-12-23 061705" src="https://github.com/user-attachments/assets/c6a654c8-61e8-4308-aaeb-9f79b592bfa0" />
+
 
 ### Exemples d’associations fortes :
 - *hip* – *hop*
@@ -75,6 +81,8 @@ La normalisation des matrices permet de faire émerger des relations sémantique
 
 ## 🧩 Structuration thématique
 Les documents et sources ont été regroupés selon leurs profils lexicaux afin d’identifier des **communautés discursives**.
+
+<img width="710" height="432" alt="Capture d’écran 2025-12-23 061950" src="https://github.com/user-attachments/assets/921e6cff-7726-4899-95cd-468a11b79886" />
 
 Trois grands axes se dégagent :
 - **Musicologique** : son, genre musical, pratiques artistiques
@@ -92,6 +100,9 @@ Une cartographie circulaire met en évidence quatre grands axes :
 - **Vert** : mondialisation et circulation géographique du rap
 - **Violet / Rose** : thématiques émergentes (genre, linguistique, éducation)
 
+<img width="437" height="303" alt="Capture d’écran 2025-12-23 062135" src="https://github.com/user-attachments/assets/bb1aebb5-3410-436d-a453-27ab97b8ac51" />
+
+
 Cette visualisation montre un **écosystème thématique interconnecté**, sans cloisonnement strict.
 
 ---
@@ -101,9 +112,22 @@ L’analyse syntaxique s’intéresse au rôle grammatical du mot **« rap »** 
 - Rap comme **sujet** (acteur culturel)
 - Rap comme **objet** (objet d’étude, de commerce, d’analyse)
 
+<img width="402" height="526" alt="Capture d’écran 2025-12-23 062516" src="https://github.com/user-attachments/assets/32d8d7b4-5ae0-4e14-b642-4f26bf1ae4fb" />
+
+Sur cette matrice, chaque ligne correspond à un verbe qui apparaît avec rap dans au moins une phrase,
+et chaque colonne indique un rôle syntaxique de rap par rapport à ce verbe (nsubj = sujet, nsubjpass =
+sujet passif, dobj = objet direct, pobj = objet d’une préposition, etc.). Les couleurs plus claires
+indiquent une fréquence plus élevée de la configuration correspondante dans le corpus. La partie
+supérieure de la figure montre la matrice brute, tandis que la partie inférieure la réordonne après un
+clustering pour regrouper les verbes aux profils similaires.
+
+
 ### Deux perspectives complémentaires :
 - **Ce que le rap fait** : exprimer, représenter, émerger, servir
 - **Ce que l’on fait du rap** : vendre, utiliser, étudier, caractériser
+
+<img width="595" height="558" alt="Capture d’écran 2025-12-23 062331" src="https://github.com/user-attachments/assets/9629eadf-d6e2-4a19-9bec-3a76b8de55ea" />
+
 
 Cette dualité révèle une évolution discursive majeure :
 > le rap est à la fois **acteur symbolique** et **objet socio-culturel**.
